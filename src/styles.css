@@ -13,7 +13,7 @@
 body {
   font-family: 'Droid Sans', 'Droid Serif', sans-serif;
   max-height: 100vh;
-  background-color: olive;
+  background-color: rgb(224, 224, 219);
 }
 
 main {
@@ -24,7 +24,7 @@ main {
 
 .score-page {
   display: flex;
-  padding: 2rem 2rem;
+  padding: 2rem 5rem;
   justify-content: space-between;
 }
 
@@ -33,8 +33,9 @@ main {
 }
 
 .title h1 {
-  font-size: 2.9rem;
+  font-size: 3rem;
   font-weight: 800;
+  margin-left: 70px;
 }
 
 .recent-scores {
@@ -44,7 +45,7 @@ main {
 
 .recent-scores h2 {
   padding-top: 10px;
-  font-size: 1.5rem;
+  font-size: 35px;
 }
 
 .refresh-button {
@@ -105,7 +106,7 @@ input::-webkit-input-placeholder {
   transition: 0.5s;
   width: 50%;
   cursor: pointer;
-  margin-left: auto;
+  margin-left: 148px;
 }
 
 .form .submit:hover {
@@ -115,10 +116,24 @@ input::-webkit-input-placeholder {
 .score-table li {
   padding: 10px;
   list-style: none;
-  color: #fff;
+  color: rgb(9, 8, 8);
 }
 
 .score-table li:nth-child(odd) {
   background-color: black;
-  color: olive;
+  color: rgb(187, 191, 196);
 }
+
+#last-sec {
+  margin-top: 14px;
+}
+
+
+
+
+
+
+
+
+
+
