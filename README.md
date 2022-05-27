@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-[View website](https://github.com/shahnawaza75/Leaderboard-setup-project/)
+[View website](https://shahnawaza75.github.io/Leaderboard-setup-project/dist/)
 
 ## Install
 
@@ -26,9 +26,9 @@ npm install
 
 ## Authors
 
-👤 **Artur Gouveia**
+👤 **Shahnawaz Ali**
 
-- GitHub:GitHub: [@Arturgouveia1970](https://github.com/shahnawaza75)
+- GitHub:GitHub: [@shahnawaza75](https://github.com/shahnawaza75)
 - Shahnawaz Ali @shahnawaza75
 - https://www.linkedin.com/in/shahnawaz-ali-a24b72204
 
