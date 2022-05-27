@@ -1,9 +1,43 @@
-# Leaderboard-setup-project
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-## Copyright 2022, [Shahnawaz Ali]
+# LEADERBOARD
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this [WEBSITE] and associated documentation files, to deal in the [WEBSITE] without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the [WEBSITE], and to permit persons to whom the [WEBSITE] is furnished to do so, subject to the following conditions:
+> A board that lets you get and send information to and from an API.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the [WEBSITE].
+## Built With
 
-THE [WEBSITE] IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE [WEBSITE] OR THE USE OR OTHER DEALINGS IN THE [WEBSITE].
+- HTML
+- CSS
+- Javascript
+- Webpack
+- gitflow
+
+## Live Demo
+
+[View website](https://shahnawaza75.github.io/Leaderboard-setup-project/dist/)
+
+## Install
+
+Clone this repository into your machine:
+https://github.com/shahnawaza75/Leaderboard-setup-project.git
+npm . init -y
+npm start
+npm install
+
+## Authors
+
+👤 **Shahnawaz Ali**
+
+- GitHub:GitHub: [@shahnawaza75](https://github.com/shahnawaza75)
+- Shahnawaz Ali @shahnawaza75
+- https://www.linkedin.com/in/shahnawaz-ali-a24b72204
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.

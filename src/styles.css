@@ -106,7 +106,7 @@ input::-webkit-input-placeholder {
   transition: 0.5s;
   width: 50%;
   cursor: pointer;
-  margin-left: 148px;
+  margin-left: 147px;
 }
 
 .form .submit:hover {
