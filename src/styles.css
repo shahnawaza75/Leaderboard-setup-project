@@ -13,7 +13,13 @@
 body {
   font-family: 'Droid Sans', 'Droid Serif', sans-serif;
   max-height: 100vh;
-  background-color: rgb(224, 224, 219);
+  background-color: rgb(15, 15, 3);
+  background-image:
+    linear-gradient(
+      to right,
+      rgba(255, 0, 0, 0),
+      rgb(0, 179, 255)
+    );
 }
 
 main {
@@ -24,18 +30,18 @@ main {
 
 .score-page {
   display: flex;
-  padding: 2rem 5rem;
+  padding: 2rem 2rem;
   justify-content: space-between;
 }
 
 .title {
   margin-left: 2rem;
+  color: #eee;
 }
 
 .title h1 {
   font-size: 3rem;
   font-weight: 800;
-  margin-left: 70px;
 }
 
 .recent-scores {
@@ -45,17 +51,18 @@ main {
 
 .recent-scores h2 {
   padding-top: 10px;
-  font-size: 35px;
+  font-size: 1.5rem;
+  color: #fff;
 }
 
 .refresh-button {
   margin-left: 2rem;
   font-size: 1rem;
-  font-weight: 800;
+  font-weight: bolder;
   font-family: 'Droid Sans', 'Droid Serif', sans-serif;
   border: 1px solid #eee;
   border-radius: 10px;
-  padding: 0 1rem;
+  padding: 0 1.9rem;
   cursor: pointer;
   box-shadow: 5px 8px 5px rgba(0, 0, 0, 1);
 }
@@ -94,10 +101,11 @@ input::-webkit-input-placeholder {
   width: 100%;
   border: 2px solid black;
   margin: 1rem 0;
+  box-shadow: 5px 7px 5px rgba(0, 0, 0, 1);
 }
 
 .form .submit {
-  font-size: 1.5rem;
+  font-size: 1rem;
   font-weight: bolder;
   font-family: 'Droid Sans', 'Droid Serif', sans-serif;
   border: 2px solid #eee;
@@ -106,7 +114,7 @@ input::-webkit-input-placeholder {
   transition: 0.5s;
   width: 50%;
   cursor: pointer;
-  margin-left: 147px;
+  margin-left: auto;
 }
 
 .form .submit:hover {
@@ -116,14 +124,15 @@ input::-webkit-input-placeholder {
 .score-table li {
   padding: 10px;
   list-style: none;
-  color: rgb(9, 8, 8);
+  color: #fff;
 }
 
 .score-table li:nth-child(odd) {
   background-color: black;
-  color: rgb(187, 191, 196);
+  color: #eee;
 }
 
-#last-sec {
-  margin-top: 14px;
+.score-table li:nth-child(even) {
+  background-color: #eee;
+  color: black;
 }
