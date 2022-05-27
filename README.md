@@ -30,7 +30,7 @@ npm install
 
 - GitHub:GitHub: [@Arturgouveia1970](https://github.com/shahnawaza75)
 - Shahnawaz Ali @shahnawaza75
-- www.linkedin.com/in/artur-gouveia-323868197
+- https://www.linkedin.com/in/shahnawaz-ali-a24b72204
 
 Feel free to check the [issues page](../../issues/).
 
