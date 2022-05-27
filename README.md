@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-[View website](https://shahnawaza75.github.io/Leaderboard-setup-project/dist/)
+[View website](https://shahnawaza75.github.io/Leaderboard-setup-project/)
 
 ## Install
 
